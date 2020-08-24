@@ -1,0 +1,512 @@
+[08-Aug-2020 10:09:07 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wmpmyid/public_html/login.php on line 7
+[08-Aug-2020 10:09:07 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/wmpmyid/public_html/login.php on line 9
+[08-Aug-2020 10:09:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/wmpmyid/public_html/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 10
+[08-Aug-2020 10:12:47 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'wmpmyid_alvien'@'localhost' to database 'wmpmyid_alvien' in /home/wmpmyid/public_html/login.php on line 7
+[08-Aug-2020 10:12:47 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/wmpmyid/public_html/login.php on line 9
+[08-Aug-2020 10:12:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/wmpmyid/public_html/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 10
+[08-Aug-2020 10:13:36 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'wmpmyid_alvien'@'localhost' to database 'wmpmyid_alvien' in /home/wmpmyid/public_html/login.php on line 7
+[08-Aug-2020 10:13:36 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/wmpmyid/public_html/login.php on line 9
+[08-Aug-2020 10:13:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/wmpmyid/public_html/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 10
+[08-Aug-2020 10:14:24 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'wmpmyid_alvien'@'localhost' to database 'wmpmyid_alvien' in /home/wmpmyid/public_html/login.php on line 7
+[08-Aug-2020 10:14:24 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/wmpmyid/public_html/login.php on line 9
+[08-Aug-2020 10:14:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/wmpmyid/public_html/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 10
+[08-Aug-2020 10:14:37 UTC] PHP Notice:  Undefined index: username in /home/wmpmyid/public_html/login.php on line 4
+[08-Aug-2020 10:14:37 UTC] PHP Notice:  Undefined index: password in /home/wmpmyid/public_html/login.php on line 5
+[08-Aug-2020 10:14:37 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'wmpmyid_alvien'@'localhost' to database 'wmpmyid_alvien' in /home/wmpmyid/public_html/login.php on line 7
+[08-Aug-2020 10:14:37 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/wmpmyid/public_html/login.php on line 9
+[08-Aug-2020 10:14:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/wmpmyid/public_html/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 10
+[08-Aug-2020 10:16:10 UTC] PHP Notice:  Undefined index: username in /home/wmpmyid/public_html/login.php on line 4
+[08-Aug-2020 10:16:10 UTC] PHP Notice:  Undefined index: password in /home/wmpmyid/public_html/login.php on line 5
+[08-Aug-2020 10:16:10 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'wmpmyid_alvien'@'localhost' to database 'wmpmyid_alvien' in /home/wmpmyid/public_html/login.php on line 7
+[08-Aug-2020 10:16:10 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/wmpmyid/public_html/login.php on line 9
+[08-Aug-2020 10:16:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/wmpmyid/public_html/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 10
+[08-Aug-2020 10:16:10 UTC] PHP Notice:  Undefined index: username in /home/wmpmyid/public_html/login.php on line 4
+[08-Aug-2020 10:16:10 UTC] PHP Notice:  Undefined index: password in /home/wmpmyid/public_html/login.php on line 5
+[08-Aug-2020 10:16:10 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'wmpmyid_alvien'@'localhost' to database 'wmpmyid_alvien' in /home/wmpmyid/public_html/login.php on line 7
+[08-Aug-2020 10:16:10 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/wmpmyid/public_html/login.php on line 9
+[08-Aug-2020 10:16:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/wmpmyid/public_html/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 10
+[08-Aug-2020 10:16:11 UTC] PHP Notice:  Undefined index: username in /home/wmpmyid/public_html/login.php on line 4
+[08-Aug-2020 10:16:11 UTC] PHP Notice:  Undefined index: password in /home/wmpmyid/public_html/login.php on line 5
+[08-Aug-2020 10:16:11 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'wmpmyid_alvien'@'localhost' to database 'wmpmyid_alvien' in /home/wmpmyid/public_html/login.php on line 7
+[08-Aug-2020 10:16:11 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/wmpmyid/public_html/login.php on line 9
+[08-Aug-2020 10:16:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/wmpmyid/public_html/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 10
+[08-Aug-2020 10:16:11 UTC] PHP Notice:  Undefined index: username in /home/wmpmyid/public_html/login.php on line 4
+[08-Aug-2020 10:16:11 UTC] PHP Notice:  Undefined index: password in /home/wmpmyid/public_html/login.php on line 5
+[08-Aug-2020 10:16:11 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'wmpmyid_alvien'@'localhost' to database 'wmpmyid_alvien' in /home/wmpmyid/public_html/login.php on line 7
+[08-Aug-2020 10:16:11 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/wmpmyid/public_html/login.php on line 9
+[08-Aug-2020 10:16:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/wmpmyid/public_html/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 10
+[08-Aug-2020 10:16:24 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'wmpmyid_alvien'@'localhost' to database 'wmpmyid_alvien' in /home/wmpmyid/public_html/login.php on line 7
+[08-Aug-2020 10:16:24 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/wmpmyid/public_html/login.php on line 9
+[08-Aug-2020 10:16:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/wmpmyid/public_html/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 10
+[08-Aug-2020 10:16:25 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'wmpmyid_alvien'@'localhost' to database 'wmpmyid_alvien' in /home/wmpmyid/public_html/login.php on line 7
+[08-Aug-2020 10:16:25 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/wmpmyid/public_html/login.php on line 9
+[08-Aug-2020 10:16:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/wmpmyid/public_html/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 10
+[08-Aug-2020 10:17:09 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'wmpmyid_alvien'@'localhost' to database 'wmpmyid_alvien' in /home/wmpmyid/public_html/login.php on line 7
+[08-Aug-2020 10:17:09 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/wmpmyid/public_html/login.php on line 9
+[08-Aug-2020 10:17:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/wmpmyid/public_html/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 10
+[08-Aug-2020 10:18:18 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'wmpmyid_alvien'@'localhost' to database 'wmpmyid_alvien' in /home/wmpmyid/public_html/login.php on line 7
+[08-Aug-2020 10:18:18 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/wmpmyid/public_html/login.php on line 9
+[08-Aug-2020 10:18:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/wmpmyid/public_html/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 10
+[08-Aug-2020 10:18:38 UTC] PHP Notice:  Undefined variable: statusid in /home/wmpmyid/public_html/admin.php on line 4
+[08-Aug-2020 10:18:38 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'wmpmyid_alvien'@'localhost' to database 'wmpmyid_alvien' in /home/wmpmyid/public_html/admin.php on line 33
+[08-Aug-2020 10:18:38 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/wmpmyid/public_html/admin.php on line 36
+[08-Aug-2020 10:18:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/wmpmyid/public_html/admin.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/admin.php on line 37
+[08-Aug-2020 10:19:14 UTC] PHP Notice:  Undefined variable: statusid in /home/wmpmyid/public_html/admin.php on line 4
+[08-Aug-2020 10:19:14 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'wmpmyid_alvien'@'localhost' to database 'wmpmyid_alvien' in /home/wmpmyid/public_html/admin.php on line 33
+[08-Aug-2020 10:19:14 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/wmpmyid/public_html/admin.php on line 36
+[08-Aug-2020 10:19:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/wmpmyid/public_html/admin.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/admin.php on line 37
+[08-Aug-2020 10:19:17 UTC] PHP Notice:  Undefined variable: statusid in /home/wmpmyid/public_html/admin.php on line 4
+[08-Aug-2020 10:19:17 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'wmpmyid_alvien'@'localhost' to database 'wmpmyid_alvien' in /home/wmpmyid/public_html/admin.php on line 33
+[08-Aug-2020 10:19:17 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/wmpmyid/public_html/admin.php on line 36
+[08-Aug-2020 10:19:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/wmpmyid/public_html/admin.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/admin.php on line 37
+[08-Aug-2020 10:21:55 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'wmpmyid_alvien'@'localhost' to database 'wmpmyid_alvien' in /home/wmpmyid/public_html/akuntambah.php on line 7
+[08-Aug-2020 10:21:55 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/wmpmyid/public_html/akuntambah.php on line 8
+[08-Aug-2020 10:21:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/wmpmyid/public_html/akuntambah.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/akuntambah.php on line 9
+[08-Aug-2020 10:21:59 UTC] PHP Notice:  Undefined variable: _SESSION in /home/wmpmyid/public_html/pengguna.php on line 14
+[08-Aug-2020 10:21:59 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'wmpmyid_alvien'@'localhost' to database 'wmpmyid_alvien' in /home/wmpmyid/public_html/pengguna.php on line 15
+[08-Aug-2020 10:21:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on boolean in /home/wmpmyid/public_html/pengguna.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/pengguna.php on line 26
+[08-Aug-2020 10:26:15 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'wmpmyid_alvien'@'localhost' to database 'wmpmyid_alvien' in /home/wmpmyid/public_html/login.php on line 7
+[08-Aug-2020 10:26:15 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/wmpmyid/public_html/login.php on line 9
+[08-Aug-2020 10:26:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/wmpmyid/public_html/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 10
+[08-Aug-2020 10:32:11 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'wmpmyid_alvien'@'localhost' to database 'wmpmyid_alvien' in /home/wmpmyid/public_html/login.php on line 7
+[08-Aug-2020 10:32:11 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/wmpmyid/public_html/login.php on line 9
+[08-Aug-2020 10:32:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/wmpmyid/public_html/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 10
+[08-Aug-2020 10:36:01 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'wmpmyid_alvien'@'localhost' (using password: YES) in /home/wmpmyid/public_html/login.php on line 7
+[08-Aug-2020 10:36:01 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/wmpmyid/public_html/login.php on line 9
+[08-Aug-2020 10:36:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/wmpmyid/public_html/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 10
+[08-Aug-2020 16:23:22 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'wmpmyid_alvien'@'localhost' to database 'wmpmyid_alvien' in /home/wmpmyid/public_html/login.php on line 7
+[08-Aug-2020 16:23:22 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/wmpmyid/public_html/login.php on line 9
+[08-Aug-2020 16:23:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/wmpmyid/public_html/login.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 10
+[08-Aug-2020 16:29:25 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'wmpmyid_alvien'@'localhost' to database 'wmpmyid_alvien' in /home/wmpmyid/public_html/login.php on line 7
+[08-Aug-2020 16:32:41 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'wmpmyid_alvien'@'localhost' to database 'wmpmyid_alvien' in /home/wmpmyid/public_html/login.php on line 7
+[08-Aug-2020 16:35:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/wmpmyid/public_html/login.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 18
+[08-Aug-2020 16:36:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/wmpmyid/public_html/login.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 12
+[08-Aug-2020 16:37:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/wmpmyid/public_html/login.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 17
+[08-Aug-2020 16:40:56 UTC] PHP Notice:  Undefined variable: conn in /home/wmpmyid/public_html/login.php on line 15
+[08-Aug-2020 16:40:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/wmpmyid/public_html/login.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 15
+[08-Aug-2020 16:47:05 UTC] PHP Notice:  Undefined variable: conn in /home/wmpmyid/public_html/login.php on line 15
+[08-Aug-2020 16:47:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/wmpmyid/public_html/login.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 15
+[08-Aug-2020 16:49:54 UTC] PHP Notice:  Undefined variable: conn in /home/wmpmyid/public_html/login.php on line 15
+[08-Aug-2020 16:49:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/wmpmyid/public_html/login.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 15
+[08-Aug-2020 16:50:48 UTC] PHP Notice:  Undefined variable: conn in /home/wmpmyid/public_html/login.php on line 15
+[08-Aug-2020 16:50:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/wmpmyid/public_html/login.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 15
+[08-Aug-2020 16:51:33 UTC] PHP Notice:  Undefined variable: conn in /home/wmpmyid/public_html/login.php on line 15
+[08-Aug-2020 16:51:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/wmpmyid/public_html/login.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 15
+[08-Aug-2020 16:51:54 UTC] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/wmpmyid/public_html/login.php on line 16
+[08-Aug-2020 16:53:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/wmpmyid/public_html/login.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 32
+[08-Aug-2020 16:53:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/wmpmyid/public_html/login.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 28
+[08-Aug-2020 16:55:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/wmpmyid/public_html/login.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 18
+[08-Aug-2020 16:57:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/wmpmyid/public_html/login.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 18
+[08-Aug-2020 16:58:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/wmpmyid/public_html/login.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 23
+[08-Aug-2020 17:01:36 UTC] PHP Notice:  Undefined variable: result in /home/wmpmyid/public_html/login.php on line 26
+[08-Aug-2020 17:01:36 UTC] PHP Notice:  Undefined variable: result in /home/wmpmyid/public_html/login.php on line 26
+[08-Aug-2020 17:01:36 UTC] PHP Notice:  Undefined variable: result in /home/wmpmyid/public_html/login.php on line 29
+[08-Aug-2020 17:01:36 UTC] PHP Notice:  Trying to get property of non-object in /home/wmpmyid/public_html/login.php on line 29
+[08-Aug-2020 17:01:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/wmpmyid/public_html/login.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 40
+[08-Aug-2020 17:02:09 UTC] PHP Notice:  Trying to get property of non-object in /home/wmpmyid/public_html/login.php on line 29
+[08-Aug-2020 17:02:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/wmpmyid/public_html/login.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 40
+[08-Aug-2020 17:03:03 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/wmpmyid/public_html/login.php on line 17
+[08-Aug-2020 17:03:03 UTC] PHP Notice:  Trying to get property of non-object in /home/wmpmyid/public_html/login.php on line 20
+[08-Aug-2020 17:03:37 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/wmpmyid/public_html/login.php on line 17
+[08-Aug-2020 17:03:37 UTC] PHP Notice:  Trying to get property of non-object in /home/wmpmyid/public_html/login.php on line 20
+[08-Aug-2020 17:07:35 UTC] PHP Notice:  Undefined variable: result in /home/wmpmyid/public_html/login.php on line 21
+[08-Aug-2020 17:07:35 UTC] PHP Notice:  Trying to get property of non-object in /home/wmpmyid/public_html/login.php on line 21
+[08-Aug-2020 17:08:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/wmpmyid/public_html/login.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 23
+[08-Aug-2020 17:09:23 UTC] PHP Notice:  Undefined variable: result in /home/wmpmyid/public_html/login.php on line 26
+[08-Aug-2020 17:09:23 UTC] PHP Notice:  Undefined variable: result in /home/wmpmyid/public_html/login.php on line 26
+[08-Aug-2020 17:09:23 UTC] PHP Notice:  Undefined variable: result in /home/wmpmyid/public_html/login.php on line 29
+[08-Aug-2020 17:09:23 UTC] PHP Notice:  Trying to get property of non-object in /home/wmpmyid/public_html/login.php on line 29
+[08-Aug-2020 17:09:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/wmpmyid/public_html/login.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 40
+[08-Aug-2020 17:09:44 UTC] PHP Notice:  Trying to get property of non-object in /home/wmpmyid/public_html/login.php on line 29
+[08-Aug-2020 17:09:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/wmpmyid/public_html/login.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 40
+[08-Aug-2020 17:10:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/wmpmyid/public_html/login.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 33
+[08-Aug-2020 17:11:20 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/wmpmyid/public_html/login.php on line 33
+[08-Aug-2020 17:11:20 UTC] PHP Notice:  Trying to get property of non-object in /home/wmpmyid/public_html/login.php on line 37
+[08-Aug-2020 17:12:19 UTC] PHP Notice:  Trying to get property of non-object in /home/wmpmyid/public_html/login.php on line 38
+[08-Aug-2020 17:12:37 UTC] PHP Notice:  Trying to get property of non-object in /home/wmpmyid/public_html/login.php on line 38
+[08-Aug-2020 17:13:41 UTC] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/wmpmyid/public_html/login.php on line 24
+[08-Aug-2020 17:13:41 UTC] PHP Notice:  Trying to get property of non-object in /home/wmpmyid/public_html/login.php on line 38
+[08-Aug-2020 17:14:36 UTC] PHP Notice:  Trying to get property of non-object in /home/wmpmyid/public_html/login.php on line 38
+[08-Aug-2020 17:16:50 UTC] PHP Notice:  Trying to get property of non-object in /home/wmpmyid/public_html/login.php on line 38
+[08-Aug-2020 17:18:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::__toString() in /home/wmpmyid/public_html/login.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 34
+[08-Aug-2020 17:18:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/wmpmyid/public_html/login.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 35
+[08-Aug-2020 17:19:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/wmpmyid/public_html/login.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 35
+[08-Aug-2020 17:21:11 UTC] PHP Notice:  Trying to get property of non-object in /home/wmpmyid/public_html/login.php on line 38
+[08-Aug-2020 17:21:45 UTC] PHP Notice:  Trying to get property of non-object in /home/wmpmyid/public_html/login.php on line 38
+[08-Aug-2020 17:22:41 UTC] PHP Notice:  Trying to get property of non-object in /home/wmpmyid/public_html/login.php on line 39
+[08-Aug-2020 17:23:52 UTC] PHP Notice:  Trying to get property of non-object in /home/wmpmyid/public_html/login.php on line 40
+[08-Aug-2020 17:23:59 UTC] PHP Notice:  Trying to get property of non-object in /home/wmpmyid/public_html/login.php on line 40
+[08-Aug-2020 17:25:31 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/wmpmyid/public_html/login.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 23
+[08-Aug-2020 17:25:53 UTC] PHP Warning:  Wrong parameter count for mysqli_stmt::bind_param() in /home/wmpmyid/public_html/login.php on line 23
+[08-Aug-2020 17:25:53 UTC] PHP Notice:  Trying to get property of non-object in /home/wmpmyid/public_html/login.php on line 40
+[08-Aug-2020 17:26:19 UTC] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/wmpmyid/public_html/login.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 23
+[08-Aug-2020 17:27:16 UTC] PHP Notice:  Trying to get property of non-object in /home/wmpmyid/public_html/login.php on line 40
+[08-Aug-2020 17:27:56 UTC] PHP Notice:  Trying to get property of non-object in /home/wmpmyid/public_html/login.php on line 40
+[08-Aug-2020 17:28:03 UTC] PHP Notice:  Trying to get property of non-object in /home/wmpmyid/public_html/login.php on line 40
+[08-Aug-2020 17:28:52 UTC] PHP Notice:  Trying to get property of non-object in /home/wmpmyid/public_html/login.php on line 41
+[08-Aug-2020 17:29:28 UTC] PHP Notice:  Trying to get property of non-object in /home/wmpmyid/public_html/login.php on line 41
+[08-Aug-2020 17:29:31 UTC] PHP Notice:  Trying to get property of non-object in /home/wmpmyid/public_html/login.php on line 41
+[08-Aug-2020 17:31:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on boolean in /home/wmpmyid/public_html/login.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 22
+[08-Aug-2020 17:31:28 UTC] PHP Notice:  Trying to get property of non-object in /home/wmpmyid/public_html/login.php on line 41
+[08-Aug-2020 17:31:40 UTC] PHP Notice:  Trying to get property of non-object in /home/wmpmyid/public_html/login.php on line 41
+[08-Aug-2020 17:31:40 UTC] PHP Notice:  Trying to get property of non-object in /home/wmpmyid/public_html/login.php on line 41
+[08-Aug-2020 17:31:41 UTC] PHP Notice:  Trying to get property of non-object in /home/wmpmyid/public_html/login.php on line 41
+[08-Aug-2020 17:31:41 UTC] PHP Notice:  Trying to get property of non-object in /home/wmpmyid/public_html/login.php on line 41
+[08-Aug-2020 17:34:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/wmpmyid/public_html/login.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/login.php on line 38
+[08-Aug-2020 17:39:17 UTC] PHP Notice:  Undefined index: username in /home/wmpmyid/public_html/login.php on line 9
+[08-Aug-2020 17:39:17 UTC] PHP Notice:  Undefined index: password in /home/wmpmyid/public_html/login.php on line 10
+[08-Aug-2020 17:39:17 UTC] PHP Notice:  Undefined index: status in /home/wmpmyid/public_html/login.php on line 43
+[08-Aug-2020 17:39:17 UTC] PHP Notice:  Undefined index: status in /home/wmpmyid/public_html/login.php on line 43
+[08-Aug-2020 17:39:31 UTC] PHP Notice:  Undefined index: username in /home/wmpmyid/public_html/login.php on line 9
+[08-Aug-2020 17:39:31 UTC] PHP Notice:  Undefined index: password in /home/wmpmyid/public_html/login.php on line 10
+[08-Aug-2020 17:39:31 UTC] PHP Notice:  Undefined index: status in /home/wmpmyid/public_html/login.php on line 43
+[08-Aug-2020 17:39:31 UTC] PHP Notice:  Undefined index: status in /home/wmpmyid/public_html/login.php on line 43
+[08-Aug-2020 17:39:47 UTC] PHP Notice:  Undefined index: username in /home/wmpmyid/public_html/login.php on line 9
+[08-Aug-2020 17:39:47 UTC] PHP Notice:  Undefined index: password in /home/wmpmyid/public_html/login.php on line 10
+[08-Aug-2020 17:39:47 UTC] PHP Notice:  Undefined index: status in /home/wmpmyid/public_html/login.php on line 43
+[08-Aug-2020 17:39:47 UTC] PHP Notice:  Undefined index: status in /home/wmpmyid/public_html/login.php on line 43
+[09-Aug-2020 07:22:55 Asia/Bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/wmpmyid/public_html/PHPMailer/src/PHPMailer.php:2035
+Stack trace:
+#0 /home/wmpmyid/public_html/PHPMailer/src/PHPMailer.php(1855): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/wmpmyid/public_html/PHPMailer/src/PHPMailer.php(1598): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Sun, 9 Au...', 'This is a multi...')
+#2 /home/wmpmyid/public_html/PHPMailer/src/PHPMailer.php(1434): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/wmpmyid/public_html/transaksibaru1.php(95): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/wmpmyid/public_html/PHPMailer/src/PHPMailer.php on line 2035
+[09-Aug-2020 07:23:14 Asia/Bangkok] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/wmpmyid/public_html/PHPMailer/src/PHPMailer.php:2035
+Stack trace:
+#0 /home/wmpmyid/public_html/PHPMailer/src/PHPMailer.php(1855): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/wmpmyid/public_html/PHPMailer/src/PHPMailer.php(1598): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Sun, 9 Au...', 'This is a multi...')
+#2 /home/wmpmyid/public_html/PHPMailer/src/PHPMailer.php(1434): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/wmpmyid/public_html/transaksibaru1.php(95): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/wmpmyid/public_html/PHPMailer/src/PHPMailer.php on line 2035
+[09-Aug-2020 13:58:51 UTC] PHP Warning:  Creating default object from empty value in /home/wmpmyid/public_html/koneksi.php on line 12
+[09-Aug-2020 13:58:51 UTC] PHP Warning:  require_once(function.php): failed to open stream: No such file or directory in /home/wmpmyid/public_html/login.php on line 30
+[09-Aug-2020 13:58:51 UTC] PHP Fatal error:  require_once(): Failed opening required 'function.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/wmpmyid/public_html/login.php on line 30
+[11-Aug-2020 15:15:03 UTC] PHP Notice:  Undefined variable: jumlahkredit in /home/wmpmyid/public_html/makepdf.php on line 51
+[11-Aug-2020 15:15:03 UTC] PHP Notice:  Undefined variable: jumlahdebet in /home/wmpmyid/public_html/makepdf.php on line 47
+[11-Aug-2020 15:15:12 UTC] PHP Notice:  Undefined variable: jumlahkredit in /home/wmpmyid/public_html/makepdf.php on line 51
+[11-Aug-2020 15:15:12 UTC] PHP Notice:  Undefined variable: jumlahdebet in /home/wmpmyid/public_html/makepdf.php on line 47
+[11-Aug-2020 15:26:17 UTC] PHP Notice:  Undefined variable: jumlahkredit in /home/wmpmyid/public_html/makepdf.php on line 51
+[11-Aug-2020 15:26:28 UTC] PHP Notice:  Undefined variable: jumlahkredit in /home/wmpmyid/public_html/makepdf.php on line 51
+[11-Aug-2020 15:26:28 UTC] PHP Notice:  Undefined variable: jumlahdebet in /home/wmpmyid/public_html/makepdf.php on line 55
+[11-Aug-2020 15:31:43 UTC] PHP Notice:  Undefined variable: jumlahkredit in /home/wmpmyid/public_html/makepdf.php on line 51
+[11-Aug-2020 15:31:43 UTC] PHP Notice:  Undefined variable: jumlahdebet in /home/wmpmyid/public_html/makepdf.php on line 55
+[11-Aug-2020 15:34:15 UTC] PHP Notice:  Undefined variable: jumlahkredit in /home/wmpmyid/public_html/makepdf.php on line 51
+[11-Aug-2020 15:34:15 UTC] PHP Notice:  Undefined variable: jumlahdebet in /home/wmpmyid/public_html/makepdf.php on line 47
+[11-Aug-2020 15:35:04 UTC] PHP Notice:  Undefined variable: jumlahkredit in /home/wmpmyid/public_html/makepdf.php on line 51
+[11-Aug-2020 15:35:04 UTC] PHP Notice:  Undefined variable: jumlahdebet in /home/wmpmyid/public_html/makepdf.php on line 47
+[11-Aug-2020 15:38:37 UTC] PHP Notice:  Undefined variable: jumlahkredit in /home/wmpmyid/public_html/makepdf.php on line 51
+[11-Aug-2020 15:38:37 UTC] PHP Notice:  Undefined variable: jumlahdebet in /home/wmpmyid/public_html/makepdf.php on line 47
+[11-Aug-2020 15:39:14 UTC] PHP Notice:  Undefined variable: jumlahkredit in /home/wmpmyid/public_html/makepdf.php on line 51
+[11-Aug-2020 15:39:14 UTC] PHP Notice:  Undefined variable: jumlahdebet in /home/wmpmyid/public_html/makepdf.php on line 47
+[11-Aug-2020 15:39:48 UTC] PHP Notice:  Undefined variable: jumlahkredit in /home/wmpmyid/public_html/makepdf.php on line 51
+[11-Aug-2020 15:39:48 UTC] PHP Notice:  Undefined variable: jumlahdebet in /home/wmpmyid/public_html/makepdf.php on line 47
+[11-Aug-2020 15:42:03 UTC] PHP Notice:  Undefined variable: jumlahkredit in /home/wmpmyid/public_html/makepdf.php on line 51
+[11-Aug-2020 15:42:03 UTC] PHP Notice:  Undefined variable: jumlahdebet in /home/wmpmyid/public_html/makepdf.php on line 47
+[11-Aug-2020 15:42:56 UTC] PHP Notice:  Undefined variable: jumlahkredit in /home/wmpmyid/public_html/makepdf.php on line 51
+[11-Aug-2020 15:42:56 UTC] PHP Notice:  Undefined variable: jumlahdebet in /home/wmpmyid/public_html/makepdf.php on line 47
+[11-Aug-2020 15:44:00 UTC] PHP Notice:  Undefined variable: jumlahkredit in /home/wmpmyid/public_html/makepdf.php on line 51
+[11-Aug-2020 15:44:00 UTC] PHP Notice:  Undefined variable: jumlahdebet in /home/wmpmyid/public_html/makepdf.php on line 47
+[11-Aug-2020 15:44:21 UTC] PHP Notice:  Undefined variable: jumlahkredit in /home/wmpmyid/public_html/makepdf.php on line 51
+[11-Aug-2020 15:44:21 UTC] PHP Notice:  Undefined variable: jumlahdebet in /home/wmpmyid/public_html/makepdf.php on line 47
+[11-Aug-2020 15:44:50 UTC] PHP Notice:  Undefined variable: jumlahkredit in /home/wmpmyid/public_html/makepdf.php on line 51
+[11-Aug-2020 15:44:50 UTC] PHP Notice:  Undefined variable: jumlahdebet in /home/wmpmyid/public_html/makepdf.php on line 47
+[11-Aug-2020 15:45:15 UTC] PHP Notice:  Undefined variable: jumlahkredit in /home/wmpmyid/public_html/makepdf.php on line 51
+[11-Aug-2020 15:45:15 UTC] PHP Notice:  Undefined variable: jumlahdebet in /home/wmpmyid/public_html/makepdf.php on line 47
+[11-Aug-2020 15:48:20 UTC] PHP Notice:  Undefined variable: jumlahkredit in /home/wmpmyid/public_html/makepdf.php on line 51
+[11-Aug-2020 15:48:20 UTC] PHP Notice:  Undefined variable: jumlahdebet in /home/wmpmyid/public_html/makepdf.php on line 47
+[11-Aug-2020 15:48:35 UTC] PHP Notice:  Undefined variable: jumlahkredit in /home/wmpmyid/public_html/makepdf.php on line 51
+[11-Aug-2020 15:48:35 UTC] PHP Notice:  Undefined variable: jumlahdebet in /home/wmpmyid/public_html/makepdf.php on line 47
+[11-Aug-2020 15:49:15 UTC] PHP Notice:  Undefined variable: jumlahkredit in /home/wmpmyid/public_html/makepdf.php on line 51
+[11-Aug-2020 15:49:15 UTC] PHP Notice:  Undefined variable: jumlahdebet in /home/wmpmyid/public_html/makepdf.php on line 47
+[11-Aug-2020 15:51:27 UTC] PHP Notice:  Undefined variable: jumlahkredit in /home/wmpmyid/public_html/makepdf.php on line 51
+[11-Aug-2020 15:51:27 UTC] PHP Notice:  Undefined variable: jumlahdebet in /home/wmpmyid/public_html/makepdf.php on line 47
+[11-Aug-2020 15:52:49 UTC] PHP Notice:  Undefined variable: jumlahkredit in /home/wmpmyid/public_html/makepdf.php on line 51
+[11-Aug-2020 15:52:49 UTC] PHP Notice:  Undefined variable: jumlahdebet in /home/wmpmyid/public_html/makepdf.php on line 47
+[11-Aug-2020 15:53:08 UTC] PHP Notice:  Undefined variable: jumlahkredit in /home/wmpmyid/public_html/makepdf.php on line 51
+[11-Aug-2020 15:53:08 UTC] PHP Notice:  Undefined variable: jumlahdebet in /home/wmpmyid/public_html/makepdf.php on line 47
+[11-Aug-2020 15:57:55 UTC] PHP Notice:  Undefined variable: jumlahkredit in /home/wmpmyid/public_html/makepdf.php on line 51
+[11-Aug-2020 15:57:55 UTC] PHP Notice:  Undefined variable: jumlahdebet in /home/wmpmyid/public_html/makepdf.php on line 47
+[11-Aug-2020 15:59:35 UTC] PHP Notice:  Undefined variable: jumlahkredit in /home/wmpmyid/public_html/makepdf.php on line 51
+[11-Aug-2020 15:59:35 UTC] PHP Notice:  Undefined variable: jumlahdebet in /home/wmpmyid/public_html/makepdf.php on line 47
+[11-Aug-2020 16:00:32 UTC] PHP Notice:  Undefined variable: jumlahkredit in /home/wmpmyid/public_html/makepdf.php on line 51
+[11-Aug-2020 16:00:32 UTC] PHP Notice:  Undefined variable: jumlahdebet in /home/wmpmyid/public_html/makepdf.php on line 47
+[11-Aug-2020 16:00:48 UTC] PHP Notice:  Undefined variable: jumlahkredit in /home/wmpmyid/public_html/makepdf.php on line 51
+[11-Aug-2020 16:00:48 UTC] PHP Notice:  Undefined variable: jumlahdebet in /home/wmpmyid/public_html/makepdf.php on line 47
+[11-Aug-2020 16:01:31 UTC] PHP Notice:  Undefined variable: jumlahkredit in /home/wmpmyid/public_html/makepdf.php on line 51
+[11-Aug-2020 16:01:31 UTC] PHP Notice:  Undefined variable: jumlahdebet in /home/wmpmyid/public_html/makepdf.php on line 47
+[11-Aug-2020 16:02:38 UTC] PHP Notice:  Undefined variable: jumlahkredit in /home/wmpmyid/public_html/makepdf.php on line 51
+[11-Aug-2020 16:02:38 UTC] PHP Notice:  Undefined variable: jumlahdebet in /home/wmpmyid/public_html/makepdf.php on line 47
+[11-Aug-2020 16:07:10 UTC] PHP Notice:  Undefined variable: jumlahkredit in /home/wmpmyid/public_html/makepdf.php on line 51
+[11-Aug-2020 16:07:10 UTC] PHP Notice:  Undefined variable: jumlahdebet in /home/wmpmyid/public_html/makepdf.php on line 47
+[11-Aug-2020 16:29:40 UTC] PHP Notice:  Undefined variable: jumlahkredit in /home/wmpmyid/public_html/makepdf.php on line 51
+[11-Aug-2020 16:29:40 UTC] PHP Notice:  Undefined variable: jumlahdebet in /home/wmpmyid/public_html/makepdf.php on line 47
+[11-Aug-2020 16:29:42 UTC] PHP Notice:  Undefined index: bulan in /home/wmpmyid/public_html/makepdf.php on line 5
+[11-Aug-2020 16:29:42 UTC] PHP Notice:  Undefined variable: jumlahkredit in /home/wmpmyid/public_html/makepdf.php on line 51
+[11-Aug-2020 16:29:42 UTC] PHP Notice:  Undefined variable: jumlahdebet in /home/wmpmyid/public_html/makepdf.php on line 47
+[14-Aug-2020 01:59:32 UTC] PHP Notice:  Undefined variable: jumlahkredit in /home/wmpmyid/public_html/makepdf.php on line 51
+[14-Aug-2020 01:59:32 UTC] PHP Notice:  Undefined variable: jumlahdebet in /home/wmpmyid/public_html/makepdf.php on line 47
+[14-Aug-2020 02:00:33 UTC] PHP Notice:  Undefined variable: jumlahkredit in /home/wmpmyid/public_html/makepdf.php on line 51
+[14-Aug-2020 02:00:33 UTC] PHP Notice:  Undefined variable: jumlahdebet in /home/wmpmyid/public_html/makepdf.php on line 47
+[14-Aug-2020 03:48:31 UTC] PHP Notice:  Undefined variable: jumlahkredit in /home/wmpmyid/public_html/makepdf.php on line 51
+[14-Aug-2020 03:48:31 UTC] PHP Notice:  Undefined variable: jumlahdebet in /home/wmpmyid/public_html/makepdf.php on line 47
+[14-Aug-2020 03:51:05 UTC] PHP Notice:  Undefined variable: jumlahkredit in /home/wmpmyid/public_html/makepdf.php on line 51
+[14-Aug-2020 03:51:05 UTC] PHP Notice:  Undefined variable: jumlahdebet in /home/wmpmyid/public_html/makepdf.php on line 47
+[19-Aug-2020 17:39:19 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wmpmyid/public_html/admin.php on line 33
+[19-Aug-2020 17:39:19 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/wmpmyid/public_html/admin.php on line 36
+[19-Aug-2020 17:39:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/wmpmyid/public_html/admin.php:37
+Stack trace:
+#0 /home/wmpmyid/public_html/index.php(31): include()
+#1 {main}
+  thrown in /home/wmpmyid/public_html/admin.php on line 37
+[19-Aug-2020 17:39:37 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wmpmyid/public_html/admin.php on line 33
+[19-Aug-2020 17:39:37 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/wmpmyid/public_html/admin.php on line 36
+[19-Aug-2020 17:39:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/wmpmyid/public_html/admin.php:37
+Stack trace:
+#0 /home/wmpmyid/public_html/index.php(31): include()
+#1 {main}
+  thrown in /home/wmpmyid/public_html/admin.php on line 37
+[19-Aug-2020 17:39:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wmpmyid/public_html/admin.php on line 33
+[19-Aug-2020 17:39:52 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/wmpmyid/public_html/admin.php on line 36
+[19-Aug-2020 17:39:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/wmpmyid/public_html/admin.php:37
+Stack trace:
+#0 /home/wmpmyid/public_html/index.php(31): include()
+#1 {main}
+  thrown in /home/wmpmyid/public_html/admin.php on line 37
+[19-Aug-2020 17:39:55 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wmpmyid/public_html/akun.php on line 26
+[19-Aug-2020 17:39:55 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/wmpmyid/public_html/akun.php on line 33
+[19-Aug-2020 17:39:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/wmpmyid/public_html/akun.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/akun.php on line 33
+[19-Aug-2020 17:39:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wmpmyid/public_html/admin.php on line 33
+[19-Aug-2020 17:39:57 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/wmpmyid/public_html/admin.php on line 36
+[19-Aug-2020 17:39:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/wmpmyid/public_html/admin.php:37
+Stack trace:
+#0 /home/wmpmyid/public_html/index.php(31): include()
+#1 {main}
+  thrown in /home/wmpmyid/public_html/admin.php on line 37
+[19-Aug-2020 17:40:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wmpmyid/public_html/admin.php on line 33
+[19-Aug-2020 17:40:11 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/wmpmyid/public_html/admin.php on line 36
+[19-Aug-2020 17:40:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/wmpmyid/public_html/admin.php:37
+Stack trace:
+#0 /home/wmpmyid/public_html/index.php(31): include()
+#1 {main}
+  thrown in /home/wmpmyid/public_html/admin.php on line 37
+[19-Aug-2020 17:40:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wmpmyid/public_html/admin.php on line 33
+[19-Aug-2020 17:40:23 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/wmpmyid/public_html/admin.php on line 36
+[19-Aug-2020 17:40:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/wmpmyid/public_html/admin.php:37
+Stack trace:
+#0 /home/wmpmyid/public_html/index.php(31): include()
+#1 {main}
+  thrown in /home/wmpmyid/public_html/admin.php on line 37
+[19-Aug-2020 17:42:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wmpmyid/public_html/admin.php on line 33
+[19-Aug-2020 17:42:12 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/wmpmyid/public_html/admin.php on line 36
+[19-Aug-2020 17:42:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/wmpmyid/public_html/admin.php:37
+Stack trace:
+#0 /home/wmpmyid/public_html/index.php(31): include()
+#1 {main}
+  thrown in /home/wmpmyid/public_html/admin.php on line 37
+[19-Aug-2020 17:42:17 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wmpmyid/public_html/admin.php on line 33
+[19-Aug-2020 17:42:17 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/wmpmyid/public_html/admin.php on line 36
+[19-Aug-2020 17:42:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/wmpmyid/public_html/admin.php:37
+Stack trace:
+#0 /home/wmpmyid/public_html/index.php(31): include()
+#1 {main}
+  thrown in /home/wmpmyid/public_html/admin.php on line 37
+[19-Aug-2020 17:42:43 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wmpmyid/public_html/akun.php on line 26
+[19-Aug-2020 17:42:43 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/wmpmyid/public_html/akun.php on line 33
+[19-Aug-2020 17:42:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/wmpmyid/public_html/akun.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/akun.php on line 33
+[19-Aug-2020 17:42:45 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wmpmyid/public_html/peminjamlist.php on line 25
+[19-Aug-2020 17:42:45 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/wmpmyid/public_html/peminjamlist.php on line 33
+[19-Aug-2020 17:42:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/wmpmyid/public_html/peminjamlist.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/peminjamlist.php on line 33
+[19-Aug-2020 17:42:45 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/wmpmyid/public_html/akun.php on line 26
+[19-Aug-2020 17:42:45 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/wmpmyid/public_html/akun.php on line 33
+[19-Aug-2020 17:42:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/wmpmyid/public_html/akun.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/wmpmyid/public_html/akun.php on line 33
+[20-Aug-2020 04:33:26 UTC] PHP Notice:  Undefined index: bulan in /home/wmpmyid/public_html/makepdf.php on line 7
+[20-Aug-2020 04:33:26 UTC] PHP Fatal error:  Uncaught Exception: FPDF error: Some data has already been output, can't send PDF file in /home/wmpmyid/public_html/fpdf/fpdf.php:271
+Stack trace:
+#0 /home/wmpmyid/public_html/fpdf/fpdf.php(1060): FPDF->Error('Some data has a...')
+#1 /home/wmpmyid/public_html/fpdf/fpdf.php(999): FPDF->_checkoutput()
+#2 /home/wmpmyid/public_html/makepdf.php(84): FPDF->Output()
+#3 {main}
+  thrown in /home/wmpmyid/public_html/fpdf/fpdf.php on line 271
+[20-Aug-2020 10:17:54 UTC] PHP Notice:  Undefined index: username in /home/wmpmyid/public_html/akun.php on line 7
+[20-Aug-2020 10:17:54 UTC] PHP Notice:  Undefined index: username in /home/wmpmyid/public_html/peminjamlist.php on line 7
+[20-Aug-2020 10:17:54 UTC] PHP Notice:  Undefined index: nama in /home/wmpmyid/public_html/akun.php on line 8
+[20-Aug-2020 10:17:54 UTC] PHP Notice:  Undefined index: nama in /home/wmpmyid/public_html/peminjamlist.php on line 8
+[20-Aug-2020 10:17:54 UTC] PHP Notice:  Undefined index: statusid in /home/wmpmyid/public_html/akun.php on line 9
+[20-Aug-2020 10:17:54 UTC] PHP Notice:  Undefined index: statusid in /home/wmpmyid/public_html/peminjamlist.php on line 9
+[21-Aug-2020 11:03:52 UTC] PHP Notice:  Undefined index: username in /home/wmpmyid/public_html/akun.php on line 7
+[21-Aug-2020 11:03:52 UTC] PHP Notice:  Undefined index: nama in /home/wmpmyid/public_html/akun.php on line 8
+[21-Aug-2020 11:03:52 UTC] PHP Notice:  Undefined index: statusid in /home/wmpmyid/public_html/akun.php on line 9
+[21-Aug-2020 11:03:52 UTC] PHP Notice:  Undefined index: username in /home/wmpmyid/public_html/peminjamlist.php on line 7
+[21-Aug-2020 11:03:52 UTC] PHP Notice:  Undefined index: nama in /home/wmpmyid/public_html/peminjamlist.php on line 8
+[21-Aug-2020 11:03:52 UTC] PHP Notice:  Undefined index: statusid in /home/wmpmyid/public_html/peminjamlist.php on line 9
+[23-Aug-2020 14:39:59 UTC] PHP Notice:  Undefined index: username in /home/wmpmyid/public_html/peminjamlist.php on line 7
+[23-Aug-2020 14:39:59 UTC] PHP Notice:  Undefined index: nama in /home/wmpmyid/public_html/peminjamlist.php on line 8
+[23-Aug-2020 14:39:59 UTC] PHP Notice:  Undefined index: statusid in /home/wmpmyid/public_html/peminjamlist.php on line 9
+[23-Aug-2020 14:39:59 UTC] PHP Notice:  Undefined index: username in /home/wmpmyid/public_html/akun.php on line 7
+[23-Aug-2020 14:39:59 UTC] PHP Notice:  Undefined index: nama in /home/wmpmyid/public_html/akun.php on line 8
+[23-Aug-2020 14:39:59 UTC] PHP Notice:  Undefined index: statusid in /home/wmpmyid/public_html/akun.php on line 9
+[24-Aug-2020 10:14:11 UTC] PHP Notice:  Undefined index: username in /home/wmpmyid/public_html/akun.php on line 7
+[24-Aug-2020 10:14:11 UTC] PHP Notice:  Undefined index: nama in /home/wmpmyid/public_html/akun.php on line 8
+[24-Aug-2020 10:14:11 UTC] PHP Notice:  Undefined index: statusid in /home/wmpmyid/public_html/akun.php on line 9
+[24-Aug-2020 10:14:11 UTC] PHP Notice:  Undefined index: username in /home/wmpmyid/public_html/peminjamlist.php on line 7
+[24-Aug-2020 10:14:11 UTC] PHP Notice:  Undefined index: nama in /home/wmpmyid/public_html/peminjamlist.php on line 8
+[24-Aug-2020 10:14:11 UTC] PHP Notice:  Undefined index: statusid in /home/wmpmyid/public_html/peminjamlist.php on line 9
